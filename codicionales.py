@@ -20,7 +20,7 @@ edad = int(edad)
 if edad >= 18 and edad <=100:
     print("Bienvenido al mamitas")
 elif edad > 100 :
-    print("Si vines acompañado de tus abues te fio")
+    print("Si vienes acompañado de tus abues te fio")
 elif edad < 0 : 
     print("Ni que viajaras en el tiempo")
 else:
